@@ -1,0 +1,19 @@
+footer {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.fa-solid,
+.fa-brands {
+  font-size: 25px;
+  color: white;
+  margin: 0 10px 0 10px;
+}
+
+.fa-solid:hover,
+.fa-brands:hover {
+  color: gray;
+}
